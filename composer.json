@@ -18,7 +18,7 @@
         "castamir/pdf-response": "2.*"
     },
     "require": {
-        "mpdf/mpdf": "5.*"
+        "mpdf/mpdf": "6.*"
     },
     "require-dev": {
         "nette/application": "~2.2",
@@ -28,7 +28,7 @@
         "latte/latte": "~2.2"
     },
     "conflict": {
-        "mpdf/mpdf": ">=5.7.3, <=5.7.99"
+        "mpdf/mpdf": ">=5.7.3, <5.7.99"
     },
     "extra": {
         "branch-alias": {
